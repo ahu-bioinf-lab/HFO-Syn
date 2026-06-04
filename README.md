@@ -58,3 +58,15 @@ pip install torch-scatter torch-sparse -f https://data.pyg.org/whl/torch-2.7.1+c
 pip install numpy==1.26.4 pandas==2.3.1 scipy==1.16.0 scikit-learn==1.7.1 \
     tqdm==4.67.1 rdkit==2025.3.3 deepchem==2.8.0 networkx==3.3 openpyxl==3.1.5
 ```
+
+
+---
+
+## Data
+
+The drug-protein-cell heterogeneous graph data (`hetero_graph.pt`) can be downloaded from Google Drive:
+
+👉 [**Download hetero_graph.pt**](https://drive.google.com/drive/folders/1gfYvXvMBzDrGC9MsCHRn4IAFqAUKHZXK?usp=drive_link)
+
+Place the downloaded file under `data/Synergy/<DATASET_NAME>/`.
+
